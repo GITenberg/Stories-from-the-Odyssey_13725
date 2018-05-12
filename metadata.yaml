@@ -1,0 +1,35 @@
+_repo: Stories-from-the-Odyssey_13725
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Havell, H. L. (Herbert Lord)
+    alias: Havell, Herbert Lord
+    deathdate: 1913
+    gutenberg_agent_id: '2966'
+    url: http://www.gutenberg.org/2009/agents/2966
+  - agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2004-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Fiction'
+- !lcsh 'Epic poetry, Greek -- Adaptations'
+- !lcc 'PA'
+- !lcsh 'Tales -- Greece'
+title: Stories from the Odyssey
+url: http://www.gutenberg.org/ebooks/13725
